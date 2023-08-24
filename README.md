@@ -1,2 +1,2 @@
 # My-Proyects
-Proyectos de Oracle One
+Proyectos
